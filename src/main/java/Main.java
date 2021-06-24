@@ -3,7 +3,7 @@ package main.java;
 import java.time.LocalDate;
 
 public class Main {
-  //  public static int patientID = 0;
+    //Git Exercise
     public static void main(String[] args){
 
         Hospital hospitalChinmaya = new Hospital("Bangalore");
